@@ -80,3 +80,4 @@ obj/Debug/netcoreapp3.1/staticwebassets/Shop.StaticWebAssets.Manifest.cache
 obj/Debug/netcoreapp3.1/staticwebassets/Shop.StaticWebAssets.xml
 appsettings.Development.json
 appsettings.json
+.vscode
